@@ -6,14 +6,23 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1:
+Write the given details.
+
 ### Step 2:
+Define a function for defining.
+
 ### Step 3: 
 Get the value from the user for the number of rotation
+
 ### Step 4: 
 Using the slicing concept rotate the list
 
-### Step 5: 
-### Step 6: 
+### Step 5:
+Call the function.
+
+### Step 6:
+End the program
+
 ## Program:
 #developed by: Tharun Sridhar
 #register no: 212223230230
